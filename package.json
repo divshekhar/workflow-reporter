@@ -13,6 +13,7 @@
   ],
   "main": "lib/index.js",
   "scripts": {
+    "tsc": "./node_modules/typescript/bin/tsc",
     "build": "tsc",
     "dev": "nodemon --exec \"npm start\"",
     "start": "npm run build && probot run ./lib/index.js",
