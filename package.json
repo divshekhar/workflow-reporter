@@ -2,7 +2,7 @@
   "name": "workflow-reporter",
   "version": "1.0.0",
   "private": true,
-  "description": "A GitHub app to report failed workflow job actions and custom report message for the job.",
+  "description": "A GitHub app to report failed workflow job actions and notify pull request creator with custom report message for the failed workflow job",
   "author": "Divyanshu Shekhar <imdshekhar@gmail.com>",
   "license": "ISC",
   "homepage": "https://github.com/divshekhar/workflow-reporter",

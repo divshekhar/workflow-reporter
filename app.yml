@@ -124,14 +124,14 @@ default_permissions:
   # https://developer.github.com/v3/apps/permissions/
   # organization_administration: read
 # The name of the GitHub App. Defaults to the name specified in package.json
-# name: My Probot App
+name: workflow-reporter
 
 # The homepage of your GitHub App.
-# url: https://example.com/
+url: https://github.com/divshekhar/workflow-reporter
 
 # A description of the GitHub App.
-# description: A description of my awesome app
+description: A GitHub app to report failed workflow job actions and notify pull request creator with custom report message for the failed workflow job
 
 # Set to true when your GitHub App is available to the public or false when it is only accessible to the owner of the app.
 # Default: true
-# public: false
+public: true
