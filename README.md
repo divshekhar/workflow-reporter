@@ -1,6 +1,6 @@
 <!-- Project Important -->
 <div align="center">
-<img src="./img/logo.png" alt="Workflow Reporter Logo">
+<img src="./img/round-logo.png" alt="Workflow Reporter Logo">
 <h1>Workflow Reporter</h1>
 </div>
 
